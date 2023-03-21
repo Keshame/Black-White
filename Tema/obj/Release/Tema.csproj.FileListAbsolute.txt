@@ -1,0 +1,14 @@
+C:\Users\Vlad\source\repos\Tema\Tema\bin\Release\Tema.exe.config
+C:\Users\Vlad\source\repos\Tema\Tema\bin\Release\Tema.exe
+C:\Users\Vlad\source\repos\Tema\Tema\bin\Release\Tema.pdb
+C:\Users\Vlad\source\repos\Tema\Tema\obj\Release\Tema.csproj.AssemblyReference.cache
+C:\Users\Vlad\source\repos\Tema\Tema\obj\Release\Tema.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vlad\source\repos\Tema\Tema\obj\Release\Tema.Tema_Form.resources
+C:\Users\Vlad\source\repos\Tema\Tema\obj\Release\Tema.Properties.Resources.resources
+C:\Users\Vlad\source\repos\Tema\Tema\obj\Release\Tema.csproj.GenerateResource.cache
+C:\Users\Vlad\source\repos\Tema\Tema\obj\Release\Tema.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\Tema\Tema\obj\Release\Tema.exe
+C:\Users\Vlad\source\repos\Tema\Tema\obj\Release\Tema.pdb
+C:\Users\Vlad\source\repos\Tema\Tema\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Vlad\source\repos\Tema\Tema\obj\Release\Tema.csproj.Fody.CopyLocal.cache
+C:\Users\Vlad\source\repos\Tema\Tema\obj\Release\Tema.csproj.CopyComplete
